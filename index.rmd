@@ -6,6 +6,11 @@ url: https://Drepute.github.io/playbook/
 cover-image: "img/cover.png"
 description: "This is community building playbook originally authored by @InfiniteGwei from rep3. This book is a public good. We strongly encourage you to read, share and contribute to this resource!"
 github-repo: Drepute/playbook
+output: 
+  html_document:
+    includes:
+       in_header: analytics.html
+       after_body: disqus.html
 ---
 
 # Hey there! {-}
