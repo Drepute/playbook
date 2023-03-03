@@ -11,6 +11,7 @@ output:
     includes:
        in_header: analytics.html
        after_body: disqus.html
+disqus: true
 ---
 
 # Hey there! {-}
