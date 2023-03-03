@@ -1,4 +1,4 @@
---- 
+---
 title: "Community Building Playbook"
 site: bookdown::bookdown_site
 documentclass: book
@@ -6,12 +6,35 @@ url: https://Drepute.github.io/playbook/
 cover-image: "img/cover.png"
 description: "This is community building playbook originally authored by @InfiniteGwei from rep3. This book is a public good. We strongly encourage you to read, share and contribute to this resource!"
 github-repo: Drepute/playbook
-output: 
-  html_document:
-    includes:
-       in_header: analytics.html
-       after_body: disqus.html
-disqus: true
+output:
+  bookdown::gitbook:
+    config:
+      toc:
+        before: |
+          <li><a href="https://Drepute.github.io/playbook/"><center>Community Building Playbook</center></a></li>
+        after: |
+          <li><a href="https://twitter.com/rep3gg/"><i>Maintained by rep3</i> 😄</a></li>
+          <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
+        collapse: section
+        scroll_highlight: true
+      toolbar:
+        position: null
+      edit: https://github.com/Drepute/playbook/edit/main/%s
+      download: null
+      search:
+        engine: lunr
+        options: null
+      fontsettings:
+        theme: dark
+        family: sans
+        size: 2.5
+      sharing:
+        twitter: true
+        linkedin: true
+      info: true
+      includes:
+        in_header: analytics.html
+        after_body: disqus.html
 ---
 
 # Hey there! {-}
