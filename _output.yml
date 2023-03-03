@@ -25,5 +25,5 @@ bookdown::gitbook:
       linkedin: true
     info: true
     includes:
-      after_body: disqus.html
+      after_body: "disqus.html"
 ---
