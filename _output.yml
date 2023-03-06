@@ -1,0 +1,17 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      collapse: section
+      scroll_highlight: true
+      before: |
+        <li><center><a href="https://Drepute.github.io/playbook/">Community Building Playbook</a></center></li>
+      after: |
+        <li><a href="https://twitter.com/rep3gg/"><i>Maintained by rep3</i> 😄</a></li>
+        <li><a href="https://github.com/rstudio/bookdown"><i>Published using bookdown</i> 📕</a></li>
+    edit: https://github.com/Drepute/playbook/edit/main/%s
+    download: null
+    info: true
+  includes:
+    in_header: analytics.html
+    after_body: disqus.html
