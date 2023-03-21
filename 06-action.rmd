@@ -8,11 +8,23 @@ title: "📕"
 ## The First 5 {-}
 > *How did you get attract the earliest members of your community?*
 
+
+<!--- add your answer here! --->
+
 ## Culture {-}
 > *How would you define your communnity's culture?*
+
+
+<!--- add your answer here! --->
 
 ## On-chain Strategy {-}
 > *What is your on-chain strategy?*
 
+
+<!--- add your answer here! --->
+
 ## Words of Cheer {-}
 > *A few words for budding or fledgling communities.*
+
+
+<!--- add your answer here! --->
