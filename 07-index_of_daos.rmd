@@ -1,0 +1,31 @@
+---
+title: "📕"
+---
+
+# The Index of DAOs {-}
+
+*Here's a quick overview of all the DAOs that have contributed to this playbook!*
+
+## [Lobby3](https://www.lobby3.org) {-}
+>⚠️ **Quick Tip**
+>
+>Unless you are building a blockchain from scratch, decentralizing too early can do more harm than good. [Decentralizing over phases](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) is a much better!
+>
+
+[Lobby3](https://www.lobby3.org/) is a decentralized advocacy organization. Their work focusses at the intersection of civics and distributed ledger technology. They aim to spread awareness of the benefits of running communities or organizations in a truly decentralized manner (and how to do so). Lobby3 is a non-profit organization currently forming a Wyoming UNA.
+
+The DAO is run by an enthusiastic group of contributors that have long taken over from the founding team. [Clinamenic](https://twitter.com/clinamenic) from Lobby3 tells us the impact the bear market has had on their team’s productivity: 
+
+*“…we never had much governance engagement, and the the bear market brought that activity down even further, but that actually worked out well because it allows the core team to focus on building "in stealth mode," which in our case mainly means a lot of tooling set up and entity formation.”*
+
+They are pre-revenue right now, but have amassed a following of ~7k people on [Twitter](https://twitter.com/Lobby3_DAO), and have an active [Discord](https://discord.gg/FbAGZswa9u) with 97 members at the time of writing. Besides being a founding member of the [DAO Coalition](https://twitter.com/daocoalition), they are planning to build a decentralized advocacy protocol that will enable users to create on-chain campaigns and social movements. 
+
+The core of this protocol will be the messages that users create, sign, and donate to, which will fund and spread the news of what they’re supporting. They have secured funding for an MVP, and are actively [inviting contributors](https://www.lobby3.org/about/become-a-member).
+
+When asked if there was anything they’d do differently, this is what [Clinamenic](https://twitter.com/clinamenic) had to say: 
+
+*“I expected tokenholders to pay more attention to governance matters! The token should not have been transferable, plus we should have set the voting to quadratic right away. Also, we decentralized too quickly, and had to recentralize to get everything back in order.”*
+
+<!--- the symmetrical --->
+
+<!--- kokonut network --->
