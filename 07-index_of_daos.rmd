@@ -2,7 +2,7 @@
 title: "📕"
 ---
 
-# The Index of DAOs {-}
+# Index of DAOs {-}
 
 *Here's a quick overview of all the DAOs that have contributed to this playbook!*
 
