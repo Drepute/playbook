@@ -17,12 +17,20 @@ title: "📕"
 
 - For starters, we all are excited by what we are doing in/through Lobby3. We also respect each other as individuals, and that has the set grounds for a stable, collaborative culture at Lobby3. One of our fun/weird rituals was doing a series of Twitter Spaces called "Statecraft on Tap" where we all drank beer and I read the Federalist Papers aloud. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
+- At the beginning of 2022, I wanted to gain more experience in web3. But like most early career folks, I was priced out of NFT communities. Shortly after, I came across [Syndicate](https://syndicate.io/) and realized that unaccredited creditors could come together in a group and invest in NFTs and tokens.
+I saw the opportunity to create the community I wanted, and quickly sent out a feeler on Twitter about creating a group of young career professionals that would learn and invest in web3 together.
+The idea resonated with people, and I realized this could be a DAO. Out of all those that reached out, I shortlisted five people after filtering for vibes. They all agreed to join.
+After this, I asked one of the members to be the second interviewer, tweeted an application form, created a website, and interviewed about 100 people. This way we onboarded 35 people to Season 1 and used Syndicate to pool $1,000 each. The DAO launched in April when Jakub came on as co-founder, and it’s been almost three seasons of The Symmetrical since then! ***-- [Erika](https://twitter.com/erika_echaniz)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
+
 <!--- add your answer here! --->
 
 ## On-chain Strategy {-}
 > *What is your on-chain strategy?*
 
 - In the original DAO, we had slightly over 800 unique tokenholders (a number which doesn’t account for Sybil attacks). We used ERC-721 transferable tokens then. In the new DAO though (which will be integrated with our new legal entity) we may use non-transferable ERC-1155s or non-transferrable ERC-721s. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
+
+We have a Twitter campaign called [Product Roasts](https://twitter.com/TheSymmetrical/status/1636028105113337856), where we give feedback to web3 products from a GenZ lens. This helped us put ourselves out there and is consistently acknowledged by product owners and the OGs in the space!
+As for motivation, we are fortunate enough to have proactive members in almost every functional area of the DAO that keep the conversation going. ***-- [Erika](https://twitter.com/erika_echaniz)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
 
 <!--- add your answer here! --->
 
