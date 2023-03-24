@@ -8,23 +8,27 @@ title: "📕"
 ## The First 5 {-}
 > *How did you get attract the earliest members of your community?*
 
+- There was a big marketing push for token mint, so in our case the first group of members were those who were attracted to the token mint, without any pre-existing familiarity with each other. Speaking about scaling, the founding team planted the flag, but the community (mainly a small handful of community members) defined the vision. As the founding members transitioned out of the DAO, the members who put in the most work and added the most value ended up becoming the core team, and we've been steering it ever since. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
 <!--- add your answer here! --->
 
 ## Culture {-}
 > *How would you define your communnity's culture?*
 
+- For starters, we all are excited by what we are doing in/through Lobby3. We also respect each other as individuals, and that has the set grounds for a stable, collaborative culture at Lobby3. One of our fun/weird rituals was doing a series of Twitter Spaces called "Statecraft on Tap" where we all drank beer and I read the Federalist Papers aloud. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
 <!--- add your answer here! --->
 
 ## On-chain Strategy {-}
 > *What is your on-chain strategy?*
 
+- In the original DAO, we had slightly over 800 unique tokenholders (a number which doesn’t account for Sybil attacks). We used ERC-721 transferable tokens then. In the new DAO though (which will be integrated with our new legal entity) we may use non-transferable ERC-1155s or non-transferrable ERC-721s. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
 <!--- add your answer here! --->
 
 ## Words of Cheer {-}
 > *A few words for budding or fledgling communities.*
 
+- Get involved and experiment! This is an amazing frontier of human coordination and organization practices. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
 <!--- add your answer here! --->
