@@ -9,37 +9,37 @@ title: "📕"
 ## [Lobby3](https://www.lobby3.org) {-}
 >⚠️ **Quick Tip**
 >
->Unless you are building a blockchain from scratch, decentralizing too early can do more harm than good. [Decentralizing over phases](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) is a much better!
+>Unless you are building a blockchain from scratch, decentralizing too early can do more harm than good. [Decentralizing over phases](https://a16zcrypto.com/content/article/progressive-decentralization-crypto-product-management/) is much better!
 >
 
-[Lobby3](https://www.lobby3.org/) is a decentralized advocacy organization. Their work focusses at the intersection of civics and distributed ledger technology. They aim to spread awareness of the benefits of running communities or organizations in a truly decentralized manner (and how to do so). Lobby3 is a non-profit organization currently forming a Wyoming UNA.
+[Lobby3](https://www.lobby3.org/) is a decentralized advocacy organization. Their work focuses on the intersection of civics and distributed ledger technology. They aim to spread awareness of the benefits of running communities or organizations in a truly decentralized manner (and how to do so). Lobby3 is a non-profit organization currently forming a Wyoming UNA.
 
-The DAO is run by an enthusiastic group of contributors that have long taken over from the founding team. [Clinamenic](https://twitter.com/clinamenic) from Lobby3 tells us the impact the bear market has had on their team’s productivity: 
+The DAO is run by an enthusiastic group of contributors that have long taken over from the founding team. [Clinamenic](https://twitter.com/clinamenic) from Lobby3 tells us the impact the bear market has had on their team's productivity: 
 
-*“…we never had much governance engagement, and the the bear market brought that activity down even further, but that actually worked out well because it allows the core team to focus on building "in stealth mode," which in our case mainly means a lot of tooling set up and entity formation.”*
+*"…we never had much governance engagement, and the bear market brought that activity down even further, but that actually worked out well because it allows the core team to focus on building "in stealth mode," which in our case mainly means a lot of tooling set up and entity formation."*
 
-They are pre-revenue right now, but have amassed a following of ~7k people on [Twitter](https://twitter.com/Lobby3_DAO), and have an active [Discord](https://discord.gg/FbAGZswa9u) with 97 members at the time of writing. Besides being a founding member of the [DAO Coalition](https://twitter.com/daocoalition), they are planning to build a decentralized advocacy protocol that will enable users to create on-chain campaigns and social movements. 
+They are pre-revenue right now but have amassed a following of ~7k people on [Twitter](https://twitter.com/Lobby3_DAO) and have an active [Discord](https://discord.gg/FbAGZswa9u) with 97 members at the time of writing. Besides being a founding member of the [DAO Coalition](https://twitter.com/daocoalition), they are planning to build a decentralized advocacy protocol that will enable users to create on-chain campaigns and social movements. 
 
-The core of this protocol will be the messages that users create, sign, and donate to, which will fund and spread the news of what they’re supporting. They have secured funding for an MVP, and are actively [inviting contributors](https://www.lobby3.org/about/become-a-member).
+The core of this protocol will be the messages that users create, sign, and donate to, which will fund and spread the news of what they're supporting. They have secured funding for an MVP and are actively [inviting contributors](https://www.lobby3.org/about/become-a-member).
 
-When asked if there was anything they’d do differently, this is what [Clinamenic](https://twitter.com/clinamenic) had to say: 
+When asked if there was anything they'd do differently, this is what [Clinamenic](https://twitter.com/clinamenic) had to say: 
 
-*“I expected tokenholders to pay more attention to governance matters! The token should not have been transferable, plus we should have set the voting to quadratic right away. Also, we decentralized too quickly, and had to recentralize to get everything back in order.”*
+*"I expected tokenholders to pay more attention to governance matters! The token should not have been transferable, plus we should have set the voting to quadratic right away. Also, we decentralized too quickly and had to recentralize to get everything back in order."*
 
 ## [The Symmetrical](https://linktr.ee/thesymmetrical) {-}
 >⚠️ **Quick Tip**
 >
-Your tokenomics is, in a way, a reflection of your priorities. But like anything, your priorities will change with time. Thus, the best way to bring your community on-chain is to experiment with NFT memberships -- this requires minimal setup, and is easy to change in the future!
+Your tokenomics is, in a way, a reflection of your priorities. But, like anything, your priorities will change with time. Thus, the best way to bring your community on-chain is to experiment with NFT memberships -- this requires minimal setup and is easy to change in the future!
 >
 
-The Symmetrical is a genZ DAO at the forefront of the internet. The DAO is heavily involved at the intersection of web3 and consumer technology. It invests in NFTs, tokens, and startups and consults with consumer tech. companies with a GenZ focus (helping them create/execute their web3 strategy). Outside of investing and consulting, the DAO actively participates in internet culture through various media channels.
+The Symmetrical is a genZ DAO at the forefront of the internet. The DAO is heavily involved in the intersection of web3 and consumer technology. It invests in NFTs, tokens, and startups and consults with consumer tech. companies with a GenZ focus (helping them create/execute their web3 strategy). Outside of investing and consulting, the DAO actively participates in internet culture through various media channels.
 
-The Symmetrical is a few weeks away from finishing its second season (Oct. ’22 to Mar. ’23), and its 55 members currently command a treasury of $52,538.61 USDC. The treasury is fully funded by these members, who collectively decide to spend this money incentivizing contributions, [giving grants](https://symmetrical.mirror.xyz/focrvQnFpx6Zm6JFOh44v_ZtFqRQJuYcMhhVcbjsrNA), and more.
+The Symmetrical is a few weeks away from finishing its second season (Oct. '22 to Mar. '23), and its 55 members currently command a treasury of $52,538.61 USDC. The treasury is fully funded by these members, who collectively decide to spend this money incentivizing contributions, [giving grants](https://symmetrical.mirror.xyz/focrvQnFpx6Zm6JFOh44v_ZtFqRQJuYcMhhVcbjsrNA), and more.
 
-The DAO boasts a following of 2,100 people on [Lens](https://lenster.xyz/u/thesymmetrical) and prefers using Telegram over Discord/Slack. While it doesn’t have a stable revenue stream, the DAO has made some revenue from its investments and consulting projects. Of late, they are focussing on ramping up their content production, aiming to monetize this in season 3 to build a bigger audience, increase brand awareness, and attract more sponsors.
+The DAO boasts a following of 2,100 people on [Lens](https://lenster.xyz/u/thesymmetrical) and prefers using Telegram over Discord/Slack. While it doesn't have a stable revenue stream, the DAO has made some revenue from its investments and consulting projects. Of late, they are focussing on ramping up their content production, aiming to monetize this in season 3 to build a bigger audience, increase brand awareness, and attract more sponsors.
 
-The Symmetrical has recently launched a sub-DAO centered around collecting media NFTs called [Collectible DAO](https://twitter.com/CollectibleDAO), and is responsible for propagating the [meme of media NFTs on Crypto Twitter](https://twitter.com/cryptohun3y/status/1638963397365743618). When asked if there were anything they’d do differently, this is what Erika and Jakub had to say:
+The Symmetrical has recently launched a sub-DAO centered around collecting media NFTs called [Collectible DAO](https://twitter.com/CollectibleDAO), and is responsible for propagating the [meme of media NFTs on Crypto Twitter](https://twitter.com/cryptohun3y/status/1638963397365743618). When asked if there were anything they'd do differently, this is what Erika and Jakub had to say:
 
-*“The biggest surprise was learning that not all DAO members would become active contributors. We had some idea of this, but had we known its magnitude, we would have worked more on incentivizing members to contribute to the DAO.”*
+*"The biggest surprise was learning that not all DAO members would become active contributors. We had some idea of this, but we would have worked more on incentivizing members to contribute had we known its magnitude."*
 
 <!--- kokonut network --->
