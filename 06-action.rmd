@@ -15,6 +15,10 @@ title: "📕"
 <p>The idea resonated with people, and I realized this could be a DAO. Out of all those that reached out, I shortlisted five people after filtering for vibes. They all agreed to join.</p>
 <p>After this, I asked one of the members to be the second interviewer, tweeted an application form, created a website, and interviewed about 100 people. This way, we onboarded 35 people to Season 1 and used Syndicate to pool $1,000 each. The DAO launched in April when Jakub came on as co-founder, and it's been almost three seasons of The Symmetrical since then! ***-- [Erika](https://twitter.com/erika_echaniz) and [Jakub](https://twitter.com/jakub_rusiecki)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***</p>
 
+- Back in 2017-18, few early members in the Moloch DAO space realized that much needed to be done in the way of making Moloch DAOs accessible to all. Since UI and I were already working on freelance dev projects through RaidGuild, we decided to make a front-end to interact with the Moloch smart contracts, and so DAOhaus was born as a hackathon project at ETHBerlin 2019! ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***
+
+- Since we were keen on attracting only the most serious members, we knew we had to go down a different route. We tried a lot of platforms, but ultimately what worked the best for us was web3 job boards. We straight up posted job openings there, and highlighted the responsibilities and roles of a DAO member in the description. Of course, Myosin members aren't restricted to the roles they applied for, but creating job postings helped us filter out a lot of the people we wouldn't otherwise have. It worked for us, and laid the foundation of the strong team we have today! ***-- [Blake](https://twitter.com/blakeminhokim)* *from* *[Myosin](https://twitter.com/myosin_xyz)***
+
 <!--- add your answer here! --->
 
 ## Culture {-}
@@ -23,6 +27,12 @@ title: "📕"
 - For starters, we all are excited by what we are doing in/through Lobby3. We also respect each other as individuals, and that has set the grounds for a stable, collaborative culture at Lobby3. One of our fun/weird rituals was doing a series of Twitter Spaces called "Statecraft on Tap," where we all drank beer, and I read the Federalist Papers aloud. ***-- [Clinamenic](https://twitter.com/clinamenic)* *from* *[Lobby3](https://www.lobby3.org/)***
 
 - We have a Twitter campaign called [Product Roasts](https://twitter.com/TheSymmetrical/status/1636028105113337856), where we give feedback to web3 products from a GenZ lens. This helped us put ourselves out there and is consistently acknowledged by product owners and the OGs in the space! We are also fortunate enough to have proactive members in almost every functional area of the DAO that keep the conversation going, so we haven't had problems with community morale so far. ***-- [Erika](https://twitter.com/erika_echaniz) and [Jakub](https://twitter.com/jakub_rusiecki)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
+
+<p>- We've been able to maintain a healthy level of engagement in our community because the core team members are super active inside and outside of the DAO. We frequently interact with each other and the broader DAOhaus community on Discord, sharing their memes, poetry, music recs, blogs, etc.</p>
+<p>We also have a Haus Party ever couple of weeks in our Discord server. This event is open to all and, honestly, is great vibes. ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***</p>
+
+<p>- Since we have an extensive member screening process that is presided over by our membership committee, we end up having a very low acceptance rate (~2%). This has created an exclusive atmosphere in the DAO which no one takes for granted.</p>
+<p>We also have one of the most consistent gm channels. One day, one of our members created Mylo -- Myosin's own Discord bot -- to replace the external bot we used to keep track of gm streaks. They also added other quirks to the bot, and gamified the process to a point where people started getting competitive about their gm streaks! ***-- [Blake](https://twitter.com/blakeminhokim)* *from* *[Myosin](https://twitter.com/myosin_xyz)***</p>
 
 <!--- add your answer here! --->
 
@@ -33,6 +43,11 @@ title: "📕"
  
 - As of Season 2, the DAO has 55 members and a treasury of $52,538.61 USDC. On-chain membership to The Symmetrical requires a minimum contribution of $1,000 USDC to get $1,000 TSYM, which gives holders the right to vote among others (like attending events, participating in consulting projects, etc.) ***-- [Erika](https://twitter.com/erika_echaniz) and [Jakub](https://twitter.com/jakub_rusiecki)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
 
+<p>- DAOhaus itself runs as a Moloch DAO, so on-chain membership is denoted by membership shares that members receive after their membership proposal is passed and processed.</p>
+<p>The DAOhaus DAO recently migrated to a more permissionless DAO under the PublicHAUS name. To join, you stake $HAUS during an open staking period to receive governance power ($PUB) over the protocol. [Here](https://admin.daohaus.fun/#/molochv3/0x1/0xf844b98df9ccdfbe5d460d0d7bdca232cf9da923/members) is a list of our members, and [here](https://join.daohaus.fun/) is how you can get involved! ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***</p>
+
+- On-chain membership and entry to the DAO is mediated by our token ($MYO) which is airdropped to members once they clear their interviews. The DAO currently has 150 members. ***-- [Blake](https://twitter.com/blakeminhokim)* *from* *[Myosin](https://twitter.com/myosin_xyz)***
+
 <!--- add your answer here! --->
 
 ## Words of Cheer {-}
@@ -42,5 +57,10 @@ title: "📕"
 
 - Building a community allows you to bootstrap a global network of participants around something you are passionate about. This is highly empowering and the best way to launch a web3 startup.
 Start small and determine what you can do well with a small group. Scale once you have this figured out. ***-- [Erika](https://twitter.com/erika_echaniz) and [Jakub](https://twitter.com/jakub_rusiecki)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
+
+- Experiment with Moloch DAOs and don’t forget why you're here. Don't give in to centralization, and remember, we can slay Moloch! ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***
+
+<p>- Building a community is hard hard work with daily grinding, communicating, empathizing, and leading. But persistence is the key, like in so many endeavors.</p>
+<p>Chart a vision of the world you want to create, and leverage the power of web3 to enable and empower other aligned people so you can all get there together! ***-- [Blake](https://twitter.com/blakeminhokim)* *from* *[Myosin](https://twitter.com/myosin_xyz)***</p>
 
 <!--- add your answer here! --->
