@@ -4,7 +4,7 @@ title: "📕"
 
 # Index of DAOs {-}
 
-*Here's a quick overview of all the DAOs that have contributed to this playbook!*
+*Here's a quick overview of all the DAOs contributing to this playbook!*
 
 ## [Lobby3](https://www.lobby3.org) {-}
 >⚠️ **Quick Tip**
@@ -16,20 +16,20 @@ title: "📕"
 
 The DAO is run by an enthusiastic group of contributors that have long taken over from the founding team. [Clinamenic](https://twitter.com/clinamenic) from Lobby3 tells us the impact the bear market has had on their team's productivity: 
 
-*"…we never had much governance engagement, and the bear market brought that activity down even further, but that actually worked out well because it allows the core team to focus on building "in stealth mode," which in our case mainly means a lot of tooling set up and entity formation."*
+*"…we never had much governance engagement, and the bear market brought that activity down even further, but that worked out well because it allows the core team to focus on building "in stealth mode," which in our case mainly means a lot of tooling set up and entity formation."*
 
-They are pre-revenue right now but have amassed a following of ~7k people on [Twitter](https://twitter.com/Lobby3_DAO) and have an active [Discord](https://discord.gg/FbAGZswa9u) with 97 members at the time of writing. Besides being a founding member of the [DAO Coalition](https://twitter.com/daocoalition), they are planning to build a decentralized advocacy protocol that will enable users to create on-chain campaigns and social movements. 
+They are pre-revenue right now but have amassed a following of ~7k people on [Twitter](https://twitter.com/Lobby3_DAO) and have an active [Discord](https://discord.gg/FbAGZswa9u) with 97 members at the time of writing. Besides being a founding member of the [DAO Coalition](https://twitter.com/daocoalition), they plan to build a decentralized advocacy protocol enabling users to create on-chain campaigns and social movements. 
 
 The core of this protocol will be the messages that users create, sign, and donate to, which will fund and spread the news of what they're supporting. They have secured funding for an MVP and are actively [inviting contributors](https://www.lobby3.org/about/become-a-member).
 
-When asked if there was anything they'd do differently, this is what [Clinamenic](https://twitter.com/clinamenic) had to say: 
+When asked if there were anything they'd do differently, this is what [Clinamenic](https://twitter.com/clinamenic) had to say: 
 
-*"I expected tokenholders to pay more attention to governance matters! The token should not have been transferable, plus we should have set the voting to quadratic right away. Also, we decentralized too quickly and had to recentralize to get everything back in order."*
+*"I expected token holders to pay more attention to governance matters! The token should not have been transferable, and we should have set the voting to quadratic immediately. Also, we decentralized too quickly and had to recentralize to get everything back in order."*
 
 ## [The Symmetrical](https://linktr.ee/thesymmetrical) {-}
 >⚠️ **Quick Tip**
 >
-Your tokenomics is, in a way, a reflection of your priorities. But, like anything, your priorities will change with time. Thus, the best way to bring your community on-chain is to experiment with NFT memberships -- this requires minimal setup and is easy to change in the future!
+Your tokenomics is a reflection of your priorities. But, like anything, these change with time. Thus, the best way to bring your community on-chain is to experiment with NFT memberships -- this requires minimal setup and is easy to change in the future!
 >
 
 The Symmetrical is a genZ DAO at the forefront of the internet. The DAO is heavily involved in the intersection of web3 and consumer technology. It invests in NFTs, tokens, and startups and consults with consumer tech. companies with a GenZ focus (helping them create/execute their web3 strategy). Outside of investing and consulting, the DAO actively participates in internet culture through various media channels.
@@ -38,8 +38,66 @@ The Symmetrical is a few weeks away from finishing its second season (Oct. '22 t
 
 The DAO boasts a following of 2,100 people on [Lens](https://lenster.xyz/u/thesymmetrical) and prefers using Telegram over Discord/Slack. While it doesn't have a stable revenue stream, the DAO has made some revenue from its investments and consulting projects. Of late, they are focussing on ramping up their content production, aiming to monetize this in season 3 to build a bigger audience, increase brand awareness, and attract more sponsors.
 
-The Symmetrical has recently launched a sub-DAO centered around collecting media NFTs called [Collectible DAO](https://twitter.com/CollectibleDAO), and is responsible for propagating the [meme of media NFTs on Crypto Twitter](https://twitter.com/cryptohun3y/status/1638963397365743618). When asked if there were anything they'd do differently, this is what Erika and Jakub had to say:
+The Symmetrical has recently launched a sub-DAO centered around collecting media NFTs called [Collectible DAO](https://twitter.com/CollectibleDAO) and is responsible for propagating the [meme of media NFTs on Crypto Twitter](https://twitter.com/cryptohun3y/status/1638963397365743618). When asked if there were anything they'd do differently, this is what Erika and Jakub had to say:
 
 *"The biggest surprise was learning that not all DAO members would become active contributors. We had some idea of this, but we would have worked more on incentivizing members to contribute had we known its magnitude."*
 
-<!--- kokonut network --->
+## [DAOhaus](https://daohaus.club/) {-}
+>⚠️ **Quick Tip**
+>
+>In the past couple of years, several Discord communities co-opted the term DAO without actually having on-chain governance. This is a missed opportunity! It takes an hour or so to grasp the fundamentals and about a few minutes to set up on-chain memberships using tools like [rep3](https://rep3.gg/), [Snapshot](https://snapshot.org/#/), etc. Only call yourself a DAO after you understand the value of on-chain governance and memberships.
+>
+
+DAOhaus is the protocol for purpose-driven governance. Community managers and founders use DAOhaus to create and manage their DAO. In summary, DAOhaus provides an easy way for people to interact with the Moloch contracts that single-handedly revived the DAO movement after the [2016 DAO hack](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/).
+
+Ideologically aligned as ever, DAOhaus is a Moloch DAO and denotes on-chain memberships via membership shares (members receive this after their membership proposal is passed and processed).
+
+Recently, the DAOhaus DAO migrated to a more permissionless DAO called PublicHAUS. Anyone can stake $HAUS during an open staking period and receive governance power over the protocol. Currently, the DAO has 85 active members, and PublicHAUS has 50 champions (i.e., the governance of PublicHAUS, and by extension, of DAOhaus, is split unevenly among the 50 champions).
+
+DAOhaus currently boasts a following of 15.5k on Twitter and around 6k+ members on their Discord server at the time of writing. PublicHAUS members can update factory contracts to add fees (thereby bringing in revenue), but they haven't chosen to do that yet.
+
+A network of smaller entities, though, offers consulting and other services around DAO setup, configuration, experiences, etc. They are revenue generating, and sometimes they also direct some revenue to PublicHAUS. [Bootleggers](https://bootleggers.wtf/) is one such entity.
+
+When asked about any expectations that shattered with time, this is what [Dekan](https://twitter.com/dekanbro/) had to say:
+
+*"My expectations weren't shattered, but prolonged. Communities will, eventually, begin to demand more from their "admins" and ask for true DAO governance. When that day comes, we will be ready."*
+
+## [Myosin](https://linktr.ee/myosinxyz) {-}
+>⚠️ **Quick Tip**
+>
+>Time spent sorting out your legal contracts is never wasted. Make sure payment schedules, cancellation clauses, and other fine print is discussed, agreed upon, and captured in a contract or any other legally binding document or program.
+>
+
+DAOhaus is the protocol for purpose-driven governance. Community managers and founders use DAOhaus to create and manage their DAO. In summary, DAOhaus provides an easy way for people to interact with the Moloch contracts that single-handedly revived the DAO movement after the [2016 DAO hack](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/).
+
+Ideologically aligned as ever, DAOhaus is a Moloch DAO that denotes on-chain memberships via membership shares (members receive this after their membership proposal is passed and processed).
+
+Recently, the DAOhaus DAO migrated to a more permissionless DAO called PublicHAUS. Anyone can stake $HAUS during an open staking period and receive governance power over the protocol. Currently, the DAO has 85 active members, and PublicHAUS has 50 champions (i.e., the governance of PublicHAUS, and by extension, of DAOhaus, is split unevenly among the 50 champions).
+
+DAOhaus currently boasts a following of 15.5k on Twitter and around 6k+ members on their Discord server at the time of writing. PublicHAUS members can update factory contracts to add fees (thereby bringing in revenue), but they haven't chosen to do that yet.
+
+There is a network of smaller entities, though, that offer consulting and other services around DAO setup, configuration, experiences, etc. They are revenue generating, and sometimes they also direct some revenue to PublicHAUS. [Bootleggers](https://bootleggers.wtf/) is one such entity.
+
+When asked about any expectations that were shattered over time, this is what [Dekan](https://twitter.com/dekanbro/) had to say:
+
+*"My expectations weren't shattered, but prolonged. Communities will, eventually, begin to demand more from their "admins" and ask for true DAO governance. When that day comes, we will be ready."*
+
+## [Kokonut Network](https://kokonut.network/) {-}
+>⚠️ **Quick Tip**
+>
+>web3 projects with an irl component to them are always tricky. They are characterized by a larger number of variables outside the team's control. So, while accounting for unexpected delays or roadblocks is a good practice, it is imperative for web3 projects with an irl component.
+>
+
+Kokonut Network promotes, organizes, funds, and manages coconut farms in the rural Dominican Republic. They are empowering the local communities while activating idle land and providing a way for people worldwide to directly contribute to the lives of those owning and working on these coconut farms.
+
+The team comprises five full-time and 54 DAO members who look after key areas such as development, marketing, farmer relations, and community management. Kokonut Network is a Moloch DAO and denotes on-chain membership via membership and loot shares (members receive these after clearing interviews and pledging a certain amount to the DAO treasury). 
+
+The DAO has yet to generate any revenue but has made significant progress in just 16 months -- they have secured land and planting permits, got agricultural insurance, set up open-source accounting systems, and got technical support from all government agencies involved in the project framework. 
+
+The team is also prepared to complete the entire planting program within eight months and is equipped to care for the trees until they start bearing fruit.
+
+Their most ambitious project, though, is creating products from the harvested coconuts and selling them. The DAO is primarily looking at beauty products, coconut milk, coconut water, and coconut pulp. These will be made available for retail and wholesale purchases. 
+
+When asked if any expectations were shattered with time, [Wasabi](https://twitter.com/WasabiNetwork) said: 
+
+*"Early on in the history of Kokonut Network, I made several decisions from a long-term perspective that weren't the best at the moment. After I did so, the uncertainty started to make me second-guess myself. But I was eventually proven correct over time. Today, I'm happy that I stuck to my convictions, and I know that no matter how bleak it may temporarily seem, taking a long-term perspective always pays off."*
