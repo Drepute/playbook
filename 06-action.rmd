@@ -21,9 +21,7 @@ title: "📕"
 
 - Like any good project, the first members are usually your friends or family. In our case, the first few members were close friends I spoke with and explained the idea to. They supported the idea and jumped in based on their financial situation. ***-- [Wasabi](https://twitter.com/WasabiNetwork)* *from* *[Kokonut Network](https://twitter.com/KokonutNetwork)***
 
-- Like any good project, the first members are usually your friends or family. In our case, the first few members were close friends I spoke with and explained the idea to. They supported the idea and jumped in based on their financial situation. ***-- [Wasabi](https://twitter.com/WasabiNetwork)* *from* *[Kokonut Network](https://twitter.com/KokonutNetwork)***
-
-<!--- add your answer here! --->
+- Since the DAO was essentially summonned by a few folks from MetaCartel (at ETH Denver 2020), our first few members came from MetaCartel and the broader Moloch DAO ecosystem. ***-- [QuantumAlpha](https://twitter.com/AlphaHouse158)* *from* *[MetaGammaDelta DAO](https://twitter.com/metagammadelta)***
 
 ## Culture {-}
 > *How would you define your community's culture?*
@@ -41,7 +39,7 @@ title: "📕"
 <p>- Our DAO members and core contributors are well aware of the significant shift in agriculture catalyzed by web3 and our role in it. This keeps us motivated at all times.</p>
 <p>Since there is some distinction between the team on the field and the one that looks after the web3 side of things, we make it a point to keep everyone on the same page regarding progress or roadblocks. ***-- [Wasabi](https://twitter.com/WasabiNetwork)* *from* *[Kokonut Network](https://twitter.com/KokonutNetwork)***</p>
 
-<!--- add your answer here! --->
+- One of the pillars of our community, if I may call it that, is our community call. Almost all communities have one, but ours is really special because instead of adding to the information overload and the madness of crypto/web3, it's a break away from it all. We don't really have fixed or lengthy agendas, and the vibe is like that of a brunch with your best friends. ***-- [QuantumAlpha](https://twitter.com/AlphaHouse158)* *from* *[MetaGammaDelta DAO](https://twitter.com/metagammadelta)***
 
 ## On-chain Strategy {-}
 > *What is your on-chain strategy?*
@@ -51,13 +49,13 @@ title: "📕"
 - As of Season 2, the DAO has 55 members and a treasury of $52,538.61 USDC. On-chain membership to The Symmetrical requires a minimum contribution of $1,000 USDC to get $1,000 TSYM, which gives holders the right to vote among others (like attending events, participating in consulting projects, etc.) ***-- [Erika](https://twitter.com/erika_echaniz) and [Jakub](https://twitter.com/jakub_rusiecki)* *from* *[The Symmetrical](https://linktr.ee/thesymmetrical)***
 
 <p>- DAOhaus itself runs as a Moloch DAO, so on-chain membership is denoted by membership shares that members receive after their membership proposal is passed and processed.</p>
-<p>The DAOhaus DAO recently migrated to a more permissionless DAO under the PublicHAUS name. To join, you stake $HAUS during an open staking period to receive governance power ($PUB) over the protocol. [Here](https://admin.daohaus.fun/#/molochv3/0x1/0xf844b98df9ccdfbe5d460d0d7bdca232cf9da923/members) is a list of our members, and [here](https://join.daohaus.fun/) is how you can get involved! ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***</p>
+<p>The DAOhaus DAO recently migrated to a more permissionless DAO under the PublicHAUS name. To join, you need to stake your DAOhaus tokens ($HAUS) during an open staking period to receive governance power ($PUB) over the protocol. [Here](https://admin.daohaus.fun/#/molochv3/0x1/0xf844b98df9ccdfbe5d460d0d7bdca232cf9da923/members) is a list of our members, and [here](https://join.daohaus.fun/) is how you can get involved! ***-- [Dekan](https://twitter.com/dekanbro)* *from* *[DAOhaus](https://daohaus.club/)***</p>
 
 - On-chain membership and entry to the DAO are mediated by our token ($MYO), which is airdropped to members once they clear their interviews. The DAO currently has 150 members. ***-- [Blake](https://twitter.com/blakeminhokim)* *from* *[Myosin](https://twitter.com/myosin_xyz)***
 
 - Kokonut Network is a [Moloch DAO](https://molochdao.com/), so membership to the DAO is denoted via loot and contributor shares. Currently, the DAO has 54 members. ***-- [Wasabi](https://twitter.com/WasabiNetwork)* *from* *[Kokonut Network](https://twitter.com/KokonutNetwork)***
 
-<!--- add your answer here! --->
+- Since we're a Moloch DAO, on-chain membership is defined through membership shares. Prospective members must pledge 10 $DAI in their membership proposals, which when passed, grants them entry to the DAO. However, one need not wait to be a member to participate. We have 100 pledgees at the moment, but our Discord server is full of active contributors who aren't official members yet! ***-- [QuantumAlpha](https://twitter.com/AlphaHouse158)* *from* *[MetaGammaDelta DAO](https://twitter.com/metagammadelta)***
 
 ## Words of Cheer {-}
 > *A few words for budding or fledgling communities.*
@@ -73,4 +71,4 @@ Start small and determine what you can do well with a small group. Scale once yo
 
 - Keep your monthly costs low. Try to do everything in-house. Partner with other builders whenever you don’t know how to do something. One of the greatest perks of building in web3 is that there’s no shortage of talent or hungry individuals that want to get stuff done. ***-- [Wasabi](https://twitter.com/WasabiNetwork)* *from* *[Kokonut Network](https://twitter.com/KokonutNetwork)***
 
-<!--- add your answer here! --->
+- Always focus on building relationships and adding value. Work hard, but also be realistic with your commitments and take breaks when your body or mind asks for them. ***-- [QuantumAlpha](https://twitter.com/AlphaHouse158)* *from* *[MetaGammaDelta DAO](https://twitter.com/metagammadelta)***
